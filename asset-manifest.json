@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reidar-qlok/reidartestsite/static/css/main.ccefa90c.css",
-    "main.js": "/reidar-qlok/reidartestsite/static/js/main.f7ee5d52.js",
-    "static/js/592.93b154dc.chunk.js": "/reidar-qlok/reidartestsite/static/js/592.93b154dc.chunk.js",
-    "index.html": "/reidar-qlok/reidartestsite/index.html",
-    "main.ccefa90c.css.map": "/reidar-qlok/reidartestsite/static/css/main.ccefa90c.css.map",
-    "main.f7ee5d52.js.map": "/reidar-qlok/reidartestsite/static/js/main.f7ee5d52.js.map",
-    "592.93b154dc.chunk.js.map": "/reidar-qlok/reidartestsite/static/js/592.93b154dc.chunk.js.map"
+    "main.css": "/reidartestsite/static/css/main.ccefa90c.css",
+    "main.js": "/reidartestsite/static/js/main.4b4f812d.js",
+    "static/js/592.93b154dc.chunk.js": "/reidartestsite/static/js/592.93b154dc.chunk.js",
+    "index.html": "/reidartestsite/index.html",
+    "main.ccefa90c.css.map": "/reidartestsite/static/css/main.ccefa90c.css.map",
+    "main.4b4f812d.js.map": "/reidartestsite/static/js/main.4b4f812d.js.map",
+    "592.93b154dc.chunk.js.map": "/reidartestsite/static/js/592.93b154dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccefa90c.css",
-    "static/js/main.f7ee5d52.js"
+    "static/js/main.4b4f812d.js"
   ]
 }
