@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reidar-qlok/reidartestsite/static/css/main.ccefa90c.css",
+    "main.js": "/reidar-qlok/reidartestsite/static/js/main.efdffd8b.js",
+    "static/js/592.93b154dc.chunk.js": "/reidar-qlok/reidartestsite/static/js/592.93b154dc.chunk.js",
+    "index.html": "/reidar-qlok/reidartestsite/index.html",
+    "main.ccefa90c.css.map": "/reidar-qlok/reidartestsite/static/css/main.ccefa90c.css.map",
+    "main.efdffd8b.js.map": "/reidar-qlok/reidartestsite/static/js/main.efdffd8b.js.map",
+    "592.93b154dc.chunk.js.map": "/reidar-qlok/reidartestsite/static/js/592.93b154dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccefa90c.css",
+    "static/js/main.efdffd8b.js"
+  ]
+}
